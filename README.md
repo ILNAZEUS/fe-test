@@ -34,7 +34,7 @@ Built with **React + TypeScript**, leveraging **@tanstack/react-table** and **vi
 
 ```bash
 # Clone the repository
-git clone https://github.com/ilnazeus/crypto-table.git
+git clone https://github.com/ILNAZEUS/fe-test.git
 cd crypto-table
 
 # Install dependencies
