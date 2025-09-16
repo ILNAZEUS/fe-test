@@ -1,0 +1,19 @@
+@import url("./base/null.css");
+
+:root {
+  --black: #000000;
+  --white: #ffffff;
+
+  --dark: #121418;
+  --dark-hover: #1d2127;
+  --darker: #080a0b;
+
+  --border-color: #1c2025;
+
+  --green: #249287;
+  --red: #bc423f;
+
+  --gray: #5e575b;
+}
+
+@import url("./base/main.css");

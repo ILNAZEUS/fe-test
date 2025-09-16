@@ -1,0 +1,10 @@
+.cell {
+}
+
+.cell.green {
+  color: var(--green);
+}
+
+.cell.red {
+  color: var(--red);
+}

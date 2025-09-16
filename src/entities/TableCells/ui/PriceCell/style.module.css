@@ -1,0 +1,11 @@
+.price {
+  transition: color 1s ease;
+}
+
+.flashUp {
+  color: var(--green);
+}
+
+.flashDown {
+  color: var(--red);
+}

@@ -1,0 +1,33 @@
+.wrapper {
+  padding: 50px;
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+}
+
+.table {
+  width: 100%;
+  border-collapse: collapse;
+  table-layout: fixed;
+  position: relative;
+}
+
+.parent {
+  height: 80vh;
+  overflow: auto;
+}
+
+.block {
+  min-height: 80vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.button {
+  color: var(--white);
+  background-color: var(--gray);
+  border-radius: 10px;
+  padding: 5px 10px;
+  font-weight: 600;
+}

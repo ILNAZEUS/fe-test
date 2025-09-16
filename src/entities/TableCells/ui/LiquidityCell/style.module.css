@@ -1,0 +1,12 @@
+.cell {
+  display: flex;
+  flex-direction: column;
+}
+
+.text.green {
+  color: var(--green);
+}
+
+.text.red {
+  color: var(--red);
+}

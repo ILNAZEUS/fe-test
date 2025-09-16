@@ -1,0 +1,19 @@
+.row {
+  display: flex;
+  gap: 10px;
+}
+
+.item {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 0.5rem;
+  width: 22px;
+  font-size: 12px;
+}
+
+.item span:last-child {
+  font-size: 6px;
+  color: var(--gray);
+}
